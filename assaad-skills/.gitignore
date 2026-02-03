@@ -1,0 +1,19 @@
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor files
+.vscode/
+.idea/
+
+# Environment files
+.env
+.env.local
+
+# Node (if using the app)
+node_modules/
+dist/
+
+# Temporary files
+*.tmp
+*.bak
